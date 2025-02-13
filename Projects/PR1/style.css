@@ -1,0 +1,66 @@
+html {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+nav{
+    background-color: rgb(242, 238, 238);
+    margin: auto;
+    padding: 20px;
+
+}
+
+#a1{
+    background-color: rgb(176, 175, 175);
+    margin: 5px;
+    padding: 8px;
+    border: solid black 2px;
+    border-radius: 5px;
+    
+}
+
+#a2 {
+    background-color: rgb(230, 227, 227);
+    margin: 5px;
+    padding: 8px;
+    border: solid black 2px;
+    border-radius: 5px;
+    
+}
+
+span {
+    display: block;
+}
+
+
+.main {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+  
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+  
+#grey {
+    background: grey;
+}
+  
+#white {
+    background: white;
+  }
+#blue {
+    background: blue;
+  }
+#yellow {
+    background: yellow;
+  }
+  
+h2{
+    text-align: center;
+}
